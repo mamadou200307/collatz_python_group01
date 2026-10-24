@@ -13,7 +13,7 @@ The program contains the following functions:
 - `longest_start(10)` returns `(9, 19)`
 - `longest_start(1000)` returns `(871, 178)`
 
-## Answers to the reflection questions
+## Answers to the think questions
 
 **1. Why does `steps(1)` return 0?**
 
